@@ -1,6 +1,6 @@
-# Bem-vindo ao perfil do @SoftwareEspirita! 🌟
+# Bem-vindo ao perfil do @BaniwaDev 🌟
 
-## Manifesto do SoftwareEspirita
+## Manifesto do BaniwaDev
 
 **Nós acreditamos no poder transformador da tecnologia como uma força para o bem.**  
 Somos um grupo de voluntários movidos pelo desejo de contribuir para um mundo melhor, criando **ferramentas open-source** que ajudam igrejas, templos religiosos e casas espíritas a gerenciar suas atividades e alcançar suas comunidades de maneira mais eficiente e inspiradora.  
@@ -37,8 +37,9 @@ Estamos construindo algo maior do que software: estamos criando **um legado de c
 
 ## Entre em contato conosco
 Estamos aqui para conversar e colaborar:  
-- **E-mail**: [SoftwareEspirita@outlook.com.br](mailto:SoftwareEspirita@outlook.com.br)  
+- **E-mail**: [BaniwaDev@outlook.com.br](mailto:BaniwaDev@outlook.com.br)  
 - **GitHub**: Explore nossos repositórios, envie uma mensagem ou abra uma issue!  
+
 
 ---
 
@@ -52,9 +53,4 @@ Estamos aqui para conversar e colaborar:
 
 > Este espaço não é apenas um repositório de código; é um movimento. Um convite para usar nossas habilidades técnicas em benefício do próximo. Junte-se a nós e faça parte dessa jornada! 🌍✨
 
-
-<!---
-SoftwareEspirita/SoftwareEspirita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
